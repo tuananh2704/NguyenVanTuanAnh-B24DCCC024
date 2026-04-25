@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quản lý thư viện</string>
+    <string name="library_title">Quản lý thư viện</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_hint">Tìm theo tên, mã hoặc loại tài liệu</string>
+    <string name="add_document">Thêm tài liệu</string>
+    <string name="add_edit_title">Thông tin tài liệu</string>
+    <string name="detail_title">Chi tiết tài liệu</string>
+    <string name="document_id">Mã tài liệu</string>
+    <string name="document_name">Tên tài liệu</string>
+    <string name="price">Giá tiền</string>
+    <string name="save">Lưu</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+</resources>
